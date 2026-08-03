@@ -1,3 +1,9 @@
+//Given an integer marks, print the grade of the student based on the following criteria:
+//Grade A: marks >= 90  
+//Grade B: marks >= 70 and marks < 90
+//Grade C: marks >= 50 and marks < 70       
+//Grade D: marks >= 35 and marks < 50
+//Fail: marks < 35
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
